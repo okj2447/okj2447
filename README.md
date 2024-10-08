@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okj2447
+- 👋 Hi, I’m Olivia Peltier.
 - 📚 I’m an academic librarian and instructor.
 - 🎓 I teach information literacy to college students of all levels.
 - 🌱 I’m currently learning how to code tools to make students' research and writing easier. 
